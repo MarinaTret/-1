@@ -8,4 +8,4 @@
 
 Завтра зима
 
-![мое фото](C:\Users\Лионель\Desktop\IMG_(190) (1).jpg)
+![мое фото](https://github.com/MarinaTret/-1/blob/main/IMG_(190)%20(1).jpg)
